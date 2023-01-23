@@ -12,5 +12,5 @@ its snowing today
 ** vijji
 ****Vijji
 Take me to college site [our college](https://www.nwmissouri.edu)
-Take me to SS page [our SS](Screenshot (3).png)
+Take me to SS page [our SS](SS.png)
    
